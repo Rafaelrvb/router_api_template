@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Alice Dupont",
+        "student_id": 201,
+        "average_grade": 15.5,
+        "courses": {"courseId": [101, 102], "progression": {"101": 1, "102": 0.75}}
+    },
+    {
+        "name": "Bob Martin",
+        "student_id": 202,
+        "average_grade": 17.2,
+        "courses": {"courseId": [103], "progression": {"103": 0.5}}
+    },
+    {
+        "name": "Clara Legrand",
+        "student_id": 203,
+        "average_grade": 14.0,
+        "courses": {"courseId": [101, 103], "progression": {"101": 1, "103": 25}}
+    }
+]

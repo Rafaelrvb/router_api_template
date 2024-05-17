@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Introduction à la Programmation Python",
+        "id": 101,
+        "price": 49.99,
+        "details": {"durée": "4 semaines", "niveau": "Débutant", "langue": "Français"}
+    },
+    {
+        "name": "Data Science Avancé",
+        "id": 102,
+        "price": 199.99,
+        "details": {"durée": "8 semaines", "niveau": "Avancé", "langue": "Anglais"}
+    },
+    {
+        "name": "Développement Web Full Stack",
+        "id": 103,
+        "price": 299.99,
+        "details": {"durée": "12 semaines", "niveau": "Intermédiaire", "langue": "Français"}
+    }
+]
